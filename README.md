@@ -10,7 +10,7 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 | Tool        | Purpose                                              |
 |-------------|------------------------------------------------------|
@@ -21,7 +21,7 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 🌍 Dataset Overview
+##  Dataset Overview
 
 - **Countries**: Canada, China, India, US, UK  
 - **Metrics Captured**: Sales, Profit, Quantity, Discounts, Customer Age Group, Gender, Category, Payment Type  
@@ -29,7 +29,7 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 🔧 Project Workflow
+##  Project Workflow
 
 1. **Data Generation (GPT):**
    - Generated separate CSVs for each country.
@@ -47,7 +47,7 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 📈 Key Insights Delivered
+##  Key Insights Delivered
 
 - **Total Sales**: 3.47M  
 - **Top Countries**: India & US (based on Profit %)  
@@ -58,21 +58,21 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 💡 Business Impact
+##  Business Impact
 
-✅ Helped identify:
+ Helped identify:
 - **Top-performing countries and products**
 - **Low-profit segments for improvement**
 - **Customer behavior trends by age/gender/payment**
 
-✅ Empowered:
+ Empowered:
 - **Marketing strategy** by customer segmentation  
 - **Inventory planning** based on profit analysis  
 - **Sales performance tracking** via dynamic KPIs
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - KPIs: Total Sales, Profit, Avg. Order Value  
 - Filters: Quarter-wise, Store Location  
@@ -81,7 +81,7 @@ To build a fully functional data analysis pipeline that answers key business que
 
 ---
 
-## 📌 Improvements & Next Steps
+##  Improvements & Next Steps
 
 - Add predictive analytics for next quarter
 - Enable anomaly detection for sudden drops in sales
