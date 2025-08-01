@@ -16,7 +16,7 @@ To build a fully functional data analysis pipeline that answers key business que
 |-------------|------------------------------------------------------|
 | GPT         | Generated synthetic sales data for 5 countries       |
 | Excel       | Performed initial data exploration and formatting    |
-| PostgreSQL  | Data cleaning, transformation & 20+ SQL business queries |
+| PostgreSQL  | Data cleaning, transformation & 10+ SQL business queries |
 | Power BI    | Built an interactive dashboard for visual storytelling |
 
 ---
@@ -40,7 +40,7 @@ To build a fully functional data analysis pipeline that answers key business que
 3. **Data Cleaning & Analysis (PostgreSQL):**
    - Imported datasets
    - Cleaned duplicates, handled missing values
-   - Answered 24+ business questions (easy to advanced)
+   - Answered 10+ business questions (easy to advanced)
 
 4. **Data Visualization (Power BI):**
    - Built an interactive dashboard with slicers, KPIs, charts
